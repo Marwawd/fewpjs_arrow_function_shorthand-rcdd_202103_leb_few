@@ -1,5 +1,5 @@
 function divide(a,b){
-  return a / b;
+  return b / a;
 }
 
 let square = (parameter1) => parameter1*parameter1
