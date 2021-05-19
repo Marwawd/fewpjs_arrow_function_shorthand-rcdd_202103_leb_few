@@ -1,7 +1,6 @@
 function divide(a,b){
-let ans= a / b;
-console.log(ans)
-return ans
+return  ans= a / b;
+
 }
 
 let square = (parameter1) => parameter1*parameter1
