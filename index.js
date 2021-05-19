@@ -1,5 +1,5 @@
 function divide(a,b){
-return  ans= a / b;
+return   a / b;
 
 }
 
