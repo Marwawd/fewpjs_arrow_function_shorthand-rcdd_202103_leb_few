@@ -1,4 +1,4 @@
-function divide(a,b){
+let divide=function(a,b){
 return   a / b
 
 }
